@@ -16,29 +16,22 @@ I get a lot of satisfaction from **solving tricky problems**, **cleaning up mess
 
 ## 🚀 Featured Projects
 
-### [Web Messages](https://github.com/appdevjohn/web-messages)  
-A basic messaging web app built with a Node.js backend and a simple, functional UI.  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+### [Web Messages](https://github.com/appdevjohn/web-messages-service)  
+A simple messaging service made for quick temporary group chats.
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![PWA](https://img.shields.io/badge/PWA-5A0FC8) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571)
 
 
-### [Web Messages Service](https://github.com/appdevjohn/web-messages-service)  
-Backend microservice powering the Web Messages app — RESTful API, message persistence, and user handling.  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571)
+### [Chess](https://github.com/appdevjohn/Chess-PWA)  
+A clean, responsive Progressive Web App for playing chess, designed for fast loading and offline play. A python backend runs the Stockfish chess engine and serves the PWA by wrapping it in a REST API.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![PWA](https://img.shields.io/badge/PWA-5A0FC8) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571) ![Stockfish](https://img.shields.io/badge/Stockfish-3C3C3B)
 
 
-### [Chess-PWA](https://github.com/appdevjohn/Chess-PWA)  
-A clean, responsive Progressive Web App for playing chess, designed for fast loading and offline play.  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![PWA](https://img.shields.io/badge/PWA-5A0FC8) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+### [Daily Story](https://github.com/appdevjohn/daily-story)  
+Read a new story every day in the language you're learning, at your skill level. Answer quiz questions after reading each story to check your comprehension.
 
-
-### [Chess-API](https://github.com/appdevjohn/Chess-API)  
-A Python FastAPI service that interfaces with Stockfish to provide chess move evaluations for multiple clients.  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571) ![Stockfish](https://img.shields.io/badge/Stockfish-3C3C3B)
-
-
-### [Space Gravity](https://github.com/appdevjohn/Space-Gravity)  
-A simple iOS game written in Swift with SpriteKit — fly your ship, dodge planets, and master the laws of gravity.  
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![SpriteKit](https://img.shields.io/badge/SpriteKit-black) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 
 ## 📌 A Little About Me
